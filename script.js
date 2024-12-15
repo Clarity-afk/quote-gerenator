@@ -26,5 +26,4 @@ function generateQuote(){
     document.getElementById('quoteText').textContent = quotes[randomIndex];
 }
 
-alert('скрипт запустился')
 
